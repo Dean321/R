@@ -1,0 +1,5 @@
+101	Samuel	20
+102	James	10
+103	Claire	30
+104	John	20
+105	Sarah	10
